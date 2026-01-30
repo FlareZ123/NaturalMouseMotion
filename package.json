@@ -1,0 +1,11 @@
+{
+  "name": "cursory",
+  "version": "1.0.0",
+  "description": "Natural-looking cursor trajectories in JavaScript.",
+  "main": "cursory.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
